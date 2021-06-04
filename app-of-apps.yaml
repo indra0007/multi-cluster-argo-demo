@@ -13,7 +13,7 @@ spec:
   source:
     path: applications
     repoURL: https://github.com/indra0007/multi-cluster-argo-demo
-    targetRevision: master
+    targetRevision: HEAD
   syncPolicy:
     automated:
       selfHeal: true
