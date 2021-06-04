@@ -7,6 +7,6 @@ metadata:
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: test-namespace2
+  name: test-namespace2-modified
 
 
