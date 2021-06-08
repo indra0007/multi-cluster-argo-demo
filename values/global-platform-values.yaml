@@ -1,0 +1,4 @@
+extraSubjectsToBind:
+  - namespace: modeling-services
+    kind: ServiceAccount
+    name: studio
