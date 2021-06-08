@@ -11,8 +11,6 @@ spec:
   source:
     chart: preview-auth
     helm:
-      values:
-      - ../values/global-platform-values.yaml
     repoURL: registry.rnd.mendix.com/mx-platform/charts
     targetRevision: 0.2.1
   syncPolicy:
