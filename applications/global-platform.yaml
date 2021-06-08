@@ -12,7 +12,7 @@ spec:
     chart: preview-auth
     helm:
     repoURL: registry.rnd.mendix.com/mx-platform/charts
-    targetRevision: 0.2.1
+    targetRevision: 0.2.0
   syncPolicy:
     automated:
       prune: true
